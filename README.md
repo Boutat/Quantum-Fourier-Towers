@@ -12,16 +12,14 @@ Instead of directly decomposing a nonabelian group into irreducible representati
 
 The global transform is
 
-$$
-F_{\mathrm{tower}}
+$F_{\mathrm{tower}}
 =
 \left(
 \prod_i C_i
 \right)
 \left(
 \bigotimes_i F_{Q_i}
-\right).
-$$
+\right).$
 
 ## Examples
 
